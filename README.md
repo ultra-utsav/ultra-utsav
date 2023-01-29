@@ -35,7 +35,7 @@
 ---
 
 <a href="https://github.com/utsav-vaghani/github-readme-stats">
-   <img width="60%" alt="Utsav's github stats" src="https://github-readme-stats.vercel.app/api?username=ultra-utsav&show_icons=true&hide_border=true" />
+   <img width="60%" alt="Utsav's github stats" src="https://github-readme-stats.vercel.app/api?username=utsav-vaghani&show_icons=true&hide_border=true" />
 </a>
 
 -----
